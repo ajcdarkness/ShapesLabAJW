@@ -1,3 +1,4 @@
+//EXTRA CREDIT: create square
 package JacobAngelaWilson;
 //creates a square class
 public class Square extends Shape{
