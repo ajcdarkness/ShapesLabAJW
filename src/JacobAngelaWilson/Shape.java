@@ -1,5 +1,5 @@
 package JacobAngelaWilson;
-
+//creates the architecture for our library of shapes
 public abstract class Shape {
 
         private String type;
